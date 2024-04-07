@@ -21,6 +21,11 @@ const myObj = {
 // }
 
 
+// if (" ") {
+//     const a="Krishna"
+//     console.log("Hari Bol")
+// }
+//console.log(a)
 
 
 
