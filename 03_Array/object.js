@@ -10,11 +10,15 @@ const myObj = {
     [sym]:"Satsang"
     
 }
-console.log(myObj)
-console.log(myObj[sym])
-console.log(myObj.name)
-console.log(myObj.work("Jayesh"))
+// console.log(myObj)
+// console.log(myObj[sym])
+// console.log(myObj.name)
+// console.log(myObj.work("Jayesh"))
 
+
+// if ("Hari" == "Hari") {
+//     console.log("Radhe radhe Bolo")
+// }
 
 
 
