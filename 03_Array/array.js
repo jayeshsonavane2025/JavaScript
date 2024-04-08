@@ -40,9 +40,9 @@
 
 
 //immediately invoked fn
-// ((myname) => {
-//     console.log(myname)
-// })("Krishna")
+((myname) => {
+    console.log(myname)
+})("Krishna")
 
 
 // const retObj = () =>( {
@@ -58,3 +58,12 @@
 
 const sayHari = (...a) => console.log(a.length)
 sayHari("Radhe","Radhe")
+
+
+
+a = [1, 2, 3, 4, 5]
+
+a.forEach((element) => 
+    console.log(element)
+)
+console.log("hari")
